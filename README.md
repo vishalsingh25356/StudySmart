@@ -1,0 +1,2 @@
+# StudySmart
+Educational website
